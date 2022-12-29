@@ -1,7 +1,7 @@
 # namoz-vaqtlari-parser
 
 ## Manual for use
-<img src="https://github.com/ulugbekivich/namoz-vaqtlari-parser/blob/main/assets/manual_for_use.jpg" width="500" height="240">
+<img src="https://github.com/ulugbekivich/namoz-vaqtlari-parser/blob/main/assets/manual_for_use.jpg" width="800" height="400">
 <br>
 
 ## 🌐 Guide for use in other programming languages:
