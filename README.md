@@ -1,2 +1,6 @@
 # namoz-vaqtlari-parser
-The code showing the prayer times parsed from the islam.uz site
+
+## Manual for use
+<img src="https://github.com/ulugbekivich/namoz-vaqtlari-parser/blob/main/assets/manual_for_use.jpg">
+<br>
+<a hef="https://islom.uz/">©️ islom.uz</a>
