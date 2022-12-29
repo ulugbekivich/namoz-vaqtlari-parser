@@ -10,6 +10,6 @@
 
 ✅ This code can show the prayer times of 13 regions, if you need the prayer times of another region or district, you can add the number of that region on the <a hef="https://islom.uz/">islom.uz</a> site to the code.
 
-<a hef="https://islom.uz/">©️ islom.uz</a>
+<h3><a hef="https://islom.uz/">©️ islom.uz</a></h3>
 
 <h4><a href="https://github.com/ulugbekivich">©️ Authors: A'zamjon Shaydullayev</a> & <a href="https://github.com/nazirov-dev">Abdulaziz Nazirov</a></h4>
