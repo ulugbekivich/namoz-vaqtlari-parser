@@ -12,4 +12,4 @@
 
 <h3><a href="https://islom.uz">©️ islom.uz</a></h3>
 
-<h4><a href="https://github.com/ulugbekivich">©️ Authors: A'zamjon Shaydullayev</a> & <a href="https://github.com/nazirov-dev">Abdulaziz Nazirov</a></h4>
+<h4>©️ Authors: <a href="https://github.com/ulugbekivich">A'zamjon Shaydullayev</a> & <a href="https://github.com/nazirov-dev">Abdulaziz Nazirov</a></h4>
